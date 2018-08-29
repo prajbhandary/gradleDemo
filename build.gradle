@@ -1,4 +1,4 @@
-// tag::use-plugin[]
+
 apply plugin: 'java'
 apply plugin: 'eclipse' // gradle cleanEclipse eclipse (dependencies download/refresh)
 // end::use-eclipse-plugin[]
